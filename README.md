@@ -1,6 +1,3 @@
-# prettier-config
-My personal prettier config
-
 # `@nordenskiold/prettier-config`
 
 > My personal [Prettier](https://prettier.io) config.
